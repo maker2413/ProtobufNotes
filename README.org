@@ -1,0 +1,11 @@
+#+TITLE: Protocol Buffers (Protobuf)
+
+Protobuf is:
+- Data format definition
+- Serialize structured data & communicates the data between machines
+- Originally created by Google
+- Elements on protobuf:
+  - Definition language (*.proto* files)
+  - Proto compile (*protoc*)
+  - Runtime Libraries
+  - Serialized data
